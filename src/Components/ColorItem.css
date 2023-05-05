@@ -1,0 +1,6 @@
+.color_item{
+    width: 2rem;
+    height: 2rem;
+    background-color: var(--bg-color);
+border-radius: 50%;
+}

@@ -1,0 +1,63 @@
+.chat_blue{
+    position: absolute;
+width: 60.9px;
+height: 60.9px;
+left: 10px;
+top: 150px;
+}
+.chat_pink{
+    position: absolute;
+    width: 60.9px;
+    height: 60.9px;
+left: 10px;
+top: 240px;
+}
+.chat_orange{
+    position: absolute;
+    width: 60.9px;
+    height: 60.9px;
+left: 10px;
+top: 330px;
+}
+.chat_rj{
+    position: absolute;
+width: 137px;
+height: 24px;
+left: 100px;
+top: 250px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20.6702px;
+line-height: 24px;
+letter-spacing: 0.02em;
+color: #000000;
+}
+.chat_js{
+    position: absolute;
+width: 137px;
+height: 24px;
+left: 100px;
+top: 330px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20.6702px;
+line-height: 24px;
+letter-spacing: 0.02em;
+color: #000000;
+}
+.chat_cn{
+    position: absolute;
+width: 137px;
+height: 24px;
+left: 100px;
+top: 160px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20.6702px;
+line-height: 24px;
+letter-spacing: 0.02em;
+color: #000000;
+}
